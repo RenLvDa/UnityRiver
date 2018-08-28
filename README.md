@@ -1,2 +1,2 @@
 # UnityRiver
-用shader实现的yunty河流效果
+用shader实现的unity河流效果
